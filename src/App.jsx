@@ -51,7 +51,7 @@ const t = (lang) => ({
     history: 'ಇತಿಹಾಸ',
     curingAssessment: 'ಚಿಕಿತ್ಸಾ ಮೌಲ್ಯಮಾಪನ',
     medicalBg: 'ವೈದ್ಯಕೀಯ ಥೀಮ್ ಅನುಭವ',
-    uploadJpeg: 'JPEG ಎಕ್ಸ್-ರೇ ಅಪ್ಲೋಡ್ ಮಾಡಿ',
+    uploadJpeg: 'JPEG ಎಕ್ಸ್-ರೇ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ',
     submit: 'ಸಲ್ಲಿಸು',
     directions: 'ದಿಕ್ಕು ಪಡೆಯಿರಿ',
   }
